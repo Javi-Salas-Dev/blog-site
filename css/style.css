@@ -7,17 +7,17 @@ body {
 	margin: 20px auto;
 	border: 1px solid blue;
 	padding: 20px;
-	background-color: burlywood;
+	background-color: deeppink;
 }
 
 h2{
 	margin-top: 0px;
-	color: darkmagenta;
+	color: red;
 }
 
 .encabezado{
-	background-color: darkred;
-	color: burlywood;
+	background-color: blueviolet;
+	color: white;
 	padding: 20px;
 	margin-bottom: 20px;
 	font-size: 30px;
